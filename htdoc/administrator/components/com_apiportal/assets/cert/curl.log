@@ -1,0 +1,28 @@
+* About to connect() to localhost port 8075 (#5)
+*   Trying ::1...
+* Connection refused
+*   Trying 127.0.0.1...
+* Connected to localhost (127.0.0.1) port 8075 (#5)
+* skipping SSL peer certificate verification
+* SSL connection using TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+* Server certificate:
+* 	subject: CN=Change this for production
+* 	start date: Oct 01 11:32:00 2012 GMT
+* 	expire date: Oct 01 11:32:00 2037 GMT
+* 	common name: Change this for production
+* 	issuer: CN=Change this for production
+> GET /api/portal/v1.3/discovery/swagger/api/My%20API HTTP/1.1
+Host: localhost:8075
+Accept: */*
+Cookie: APIMANAGERSESSION=553c2555-d8a9-4a27-b41d-29bc1c163452
+IsApiPortalRequest: true
+
+< HTTP/1.1 200 OK
+< Date: Wed, 20 Sep 2017 18:32:55 GMT
+< Expires: Wed, 20 Sep 2017 18:32:55 GMT
+< Content-Type: application/json
+< Server: Gateway
+< Connection: close
+< X-CorrelationID: Id-57b4c2593c002b87854f448c 0
+< 
+* Closing connection 5

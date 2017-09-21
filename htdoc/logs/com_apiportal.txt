@@ -1,0 +1,208 @@
+#
+#<?php die('Forbidden.'); ?>
+#Date: 2017-07-31 12:42:42 UTC
+#Software: Joomla Platform 13.1.0 Stable [ Curiosity ] 24-Apr-2013 00:00 GMT
+
+#Fields: datetime priority message
+2017-07-31T12:42:42+00:00 INFO preflight: Install: Installing release version: 7.5.4-13; /opt/axway/apiportal/htdoc/tmp/install_597f25c2202a9/packages/install_597f25c2616a1/script.php
+2017-07-31T12:42:44+00:00 INFO postflight: Starting post installation/update setup.
+2017-07-31T12:42:44+00:00 INFO Configuring articles...
+2017-07-31T12:42:44+00:00 INFO Articles configured: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Sign In] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_users with id 25
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Sign In] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Users] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Users] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [EasyBlog] alias [easyblog] path [easyblog] component_id [] client_id [] parent_id [] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [APIs] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [APIs] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Applications] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Applications] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Monitoring] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Monitoring] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Help Center] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Help Center] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Is component [com_easydiscuss] enabled? true
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Help Center] alias [help-center] path [help-center] component_id [] client_id [] parent_id [] baselink []
+2017-07-31T12:42:44+00:00 INFO Found menu item with id 147
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Discussions] alias [] path [] component_id [] client_id [0] parent_id [147] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_easydiscuss with id 10002
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Discussions] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Discussions] alias [discussions] path [discussions] component_id [] client_id [] parent_id [] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Easy discuss Default Menu Id is []
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Pricing] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Pricing] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [My Profile] alias [profile-menu] path [profile-menu] component_id [] client_id [] parent_id [] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Is component [com_easyblog] enabled? true
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Blog] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_easyblog with id 10003
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Blog] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [My Profile] alias [] path [] component_id [] client_id [0] parent_id [1] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"menu-profile","menu_image":"images\/com_apiportal\/menu\/user.svg","menu_text":0,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [My Profile] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [My Profile] alias [profile-menu] path [profile-menu] component_id [] client_id [] parent_id [] baselink []
+2017-07-31T12:42:44+00:00 INFO Found menu item with id 151
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [My Profile] alias [] path [] component_id [] client_id [0] parent_id [151] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [My Profile] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Edit Profile] alias [] path [] component_id [] client_id [0] parent_id [151] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO {"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"page_title":"","show_page_heading":0,"page_heading":"","pageclass_sfx":"","menu-meta_description":"","menu-meta_keywords":"","robots":"","secure":0,"masthead-title":"","masthead-slogan":""}
+2017-07-31T12:42:44+00:00 INFO Menu item [Edit Profile] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Sign Out] alias [] path [] component_id [] client_id [0] parent_id [151] baselink []
+2017-07-31T12:42:44+00:00 INFO Not found menu item in joomla db.
+2017-07-31T12:42:44+00:00 ERROR Not found component: system in joomla DB.
+2017-07-31T12:42:44+00:00 INFO '{"menu-anchor_title":"","menu-anchor_css":"","menu_image":"","menu_text":1,"masthead-title":"","masthead-slogan":""}'
+2017-07-31T12:42:44+00:00 INFO Menu item [Sign Out] inserted into DB: success
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [My Profile] alias [profile-menu] path [profile-menu] component_id [] client_id [] parent_id [] baselink []
+2017-07-31T12:42:44+00:00 INFO Found menu item with id 151
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [My Profile] alias [profile] path [profile-menu/profile] component_id [] client_id [] parent_id [] baselink []
+2017-07-31T12:42:44+00:00 INFO Found menu item with id 152
+2017-07-31T12:42:44+00:00 INFO Is component [com_easydiscuss] enabled? true
+2017-07-31T12:42:44+00:00 INFO Searching for menu item with title [Help Center] alias [help-center] path [help-center] component_id [] client_id [] parent_id [] baselink []
+2017-07-31T12:42:44+00:00 INFO Found menu item with id 147
+2017-07-31T12:42:44+00:00 INFO Purity iii set as default site template: success
+2017-07-31T12:42:44+00:00 INFO Purity iii configured: success
+2017-07-31T12:42:44+00:00 INFO Found component: com_apiportal with id 10011
+2017-07-31T12:42:44+00:00 INFO Found Purity iii template with id 9 in the DB.
+2017-07-31T12:42:44+00:00 INFO Home menu configured: success
+2017-07-31T12:42:44+00:00 INFO Moving overrides dir
+2017-07-31T12:42:44+00:00 INFO Current dir /opt/axway/apiportal/htdoc/administrator
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/language
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/language/en-GB
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/language/en-GB/en-GB.tpl_purity_iii.ini
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/language/en-GB/en-GB.tpl_purity_iii.ini to /opt/axway/apiportal/htdoc/Backups/20170731124244/language/en-GB/en-GB.tpl_purity_iii.ini
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/language/en-GB/en-GB.tpl_purity_iii.ini backed up.
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/language/overrides
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/language/overrides/en-GB.override.ini
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/defines.php
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/administrator
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/administrator/language
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/administrator/language/overrides
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/administrator/language/overrides/en-GB.override.ini
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/administrator/templates
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/administrator/templates/isis
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/administrator/templates/isis/css
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/administrator/templates/isis/css/custom.css
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/thememagic.xml
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/templates/purity_iii/thememagic.xml to /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/thememagic.xml
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/thememagic.xml backed up.
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/images
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/images/error-page.png
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/language
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/language/en-GB
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/language/en-GB/en-GB.tpl_purity_iii.ini
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/templates/purity_iii/language/en-GB/en-GB.tpl_purity_iii.ini to /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/language/en-GB/en-GB.tpl_purity_iii.ini
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/language/en-GB/en-GB.tpl_purity_iii.ini backed up.
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/less
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/less/themes
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/less/themes/axway
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/less/themes/axway
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/less/themes/axway/variables-custom.less
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/less/themes/axway/template.less
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/less/themes/axway/variables.less
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/less/style.less
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/templates/purity_iii/less/style.less to /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/less/style.less
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/less/style.less backed up.
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/less/variables.less
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/templates/purity_iii/less/variables.less to /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/less/variables.less
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/less/variables.less backed up.
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/js
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/js/html5.js
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/local
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local/tpls
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/local/tpls
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local/tpls/blocks
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/local/tpls/blocks
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local/tpls/blocks/header.php
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local/tpls/blocks/masthead.php
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local/css
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/local/css
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local/css/themes
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/local/css/themes
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local/css/themes/axway
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/local/css/themes/axway
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/local/css/themes/axway/fonts-google.css
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/html
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/html/com_users
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/html/com_users
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/html/com_users/index.html
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/html/com_users/login
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/html/com_users/login
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/html/com_users/login/default.php
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/html/com_users/login/index.html
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/tpls
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/tpls/blocks
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/tpls/blocks/head.php
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/templates/purity_iii/tpls/blocks/head.php to /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/tpls/blocks/head.php
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/tpls/blocks/head.php backed up.
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/tpls/blocks/footer.php
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/templates/purity_iii/tpls/blocks/footer.php to /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/tpls/blocks/footer.php
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/tpls/blocks/footer.php backed up.
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-roboto-google
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-roboto-google
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-roboto-google/Roboto-Italic.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-roboto-google/Roboto-Regular.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-roboto-google/Roboto-LightItalic.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-roboto-google/Roboto-Light.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-roboto-google/Roboto-BoldItalic.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-roboto-google/Roboto-Bold.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway
+2017-07-31T12:42:44+00:00 INFO Creating directory /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-SecureTransport.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-Engage.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-Engage.svg
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-Common.eot
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-SecureTransport.eot
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-Common.svg
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-Common.woff
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-SecureTransport.svg
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-Common.ttf
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-Engage.eot
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-Engage.woff
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/fonts/font-axway/Axway-SecureTransport.woff
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/error.php
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/templates/purity_iii/error.php to /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/error.php
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/error.php backed up.
+2017-07-31T12:42:44+00:00 INFO /opt/axway/apiportal/htdoc/templates/purity_iii/favicon.ico
+2017-07-31T12:42:44+00:00 INFO Copying file /opt/axway/apiportal/htdoc/templates/purity_iii/favicon.ico to /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/favicon.ico
+2017-07-31T12:42:44+00:00 INFO File /opt/axway/apiportal/htdoc/Backups/20170731124244/templates/purity_iii/favicon.ico backed up.
+2017-08-30T16:36:35+00:00 ERROR Public API - User name and password do not match, or you do not have an enabled account. (Invalid user or password)
+2017-09-05T12:26:32+00:00 ERROR Public API - User name and password do not match, or you do not have an enabled account. (Invalid user or password)
+2017-09-05T12:26:35+00:00 ERROR Public API - User name and password do not match, or you do not have an enabled account. (Invalid user or password)
